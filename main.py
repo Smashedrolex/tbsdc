@@ -1,0 +1,7 @@
+print("MY DAILY ROUTINE")
+print("1 'Make the bed'")
+print("2 'Wash my face'")
+print("3 'Clean the kitchen'")
+print("4 'I attend my first class of the day'")
+print("5 'After class i eat '")
+print("5'After eating i do some revision of the first class'")
